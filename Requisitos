@@ -1,0 +1,11 @@
+1	Lista de Requisitos Funcionais
+RF01: <Permitir a busca de continente>
+RF02: <Permitir a busca de Pais de Origem>
+RF03: <Permitir a busca de UF de destino>
+RF04: <Permitir a busca da via de acesso>
+RF05: <Permitir a busca do ano da viagem>
+RF06: <Permitir a busca do mês da viagem >
+RF07: <Permitir a busca do total de chegadas a determinada UF>
+RF08: <Lista de todos os continentes>
+RF09: <Lista de todos os Países de origem >
+RF10: <Lista de todos as vias de acesso ao destino >
